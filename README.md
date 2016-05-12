@@ -56,3 +56,8 @@
 ### DEMO Ref.
 
 - [p2c.co.kr/ko/hardware/pos](http://p2c.co.kr/ko/hardware/pos#Pos100)
+
+-
+
+### IE 조건부 주석문 참고
+- [구형 IE 조건부 주석문 이슈](https://github.com/h5bp/html5-boilerplate/issues/378#issuecomment-1203093)

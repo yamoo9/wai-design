@@ -6,6 +6,12 @@
  * 스타일 모듈 로드
  * ----------------------------- */
 @import "./common.css";
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
 @import "./grid.css";
 
 /**
