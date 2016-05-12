@@ -50,3 +50,9 @@
 ### Sprite Image Generator
 
 - [spritepad](http://spritepad.wearekiss.com/)
+
+-
+
+### DEMO Ref.
+
+- [p2c.co.kr/ko/hardware/pos](http://p2c.co.kr/ko/hardware/pos#Pos100)
