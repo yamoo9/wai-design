@@ -74,3 +74,4 @@
 ### Photoshop 플러그인
 
 - [Renamy](http://www.klaia.com/Renamy/)
+- [Specking](http://www.wuwacorp.com/specking/)
