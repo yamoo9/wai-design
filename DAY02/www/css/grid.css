@@ -8,15 +8,49 @@
  * 거터 20px
  * 거터 방향 after
  */
-body {
-  margin: 0;
-}
+
 /**
  * --------------------------------
- * 컨테이너 모듈
+ * 컨테이너(Container) 모듈
  * ----------------------------- */
 .container {
   width: 1000px;
   margin-left: auto;
   margin-right: auto;
+}
+
+/**
+ * --------------------------------
+ * 로우(행, Row) 모듈
+ * ----------------------------- */
+.row:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/**
+ * --------------------------------
+ * 컬럼(Column) 모듈
+ * ----------------------------- */
+.col {
+  float: left;
+  margin-right: 20px;
+}
+
+.col-1 { width: 65px; }
+.col-2 { width: 150px; }
+.col-3 { width: 235px; }
+.col-4 { width: 320px; }
+.col-5 { width: 405px; }
+.col-6 { width: 490px; }
+.col-7 { width: 575px; }
+.col-8 { width: 660px; }
+.col-9 { width: 745px; }
+.col-10 { width: 830px; }
+.col-11 { width: 915px; }
+.col-12 { width: 1000px; }
+
+.last {
+  margin-right: 0;
 }
