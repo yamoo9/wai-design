@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="32" viewBox="0 0 30 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #666;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icom-cable.svg" class="cls-1" d="M1055,3657.6V3648h-9.88v3.78h-4.1v-3.77h-2.11v14.97h-4.03v-3.78H1025v9.6h9.88v-3.77h4.03v14.94h2.11v-3.75h4.1v3.77H1055v-9.6h-9.88v3.78h-4.1v-20.35h4.1v3.78H1055Z" transform="translate(-1025 -3648)"/>
+</svg>

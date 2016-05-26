@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #666;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-readability.svg" class="cls-1" d="M376.975,4119.65l-6.668-6.67v5.6h-4.526v2.14h4.526v5.6Zm-26.683,0v6.68h13.4v-13.4h-13.4v6.72h0Zm2.127-4.54h9.08v9.08h-9.08v-9.08Zm5.61,13.36h-2.14V4133h-5.6l6.667,6.67,6.668-6.67h-5.6v-4.53Zm-14.4-15.49-6.667,6.67,6.667,6.67v-5.6h4.527v-2.14h-4.527v-5.6Zm12.265-2.14h2.14v-4.52h5.6l-6.668-6.67-6.667,6.67h5.6v4.52Z" transform="translate(-336.969 -4099.66)"/>
+</svg>

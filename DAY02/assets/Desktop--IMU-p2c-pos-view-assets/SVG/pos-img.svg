@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="26" viewBox="0 0 32 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #555;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-pos-img.svg" class="cls-1" d="M830.49,2095.49a2,2,0,1,1-2-2A2,2,0,0,1,830.49,2095.49ZM824,2102h14v-5.08l-2.216-4.02-3.01,6.5L831,2097.59s-2.457.91-3.267,2.31a1.644,1.644,0,0,0-1.99,0Zm16-14v-6H812v18h6v8h26v-20h-4Zm-22,8h-2v-10h20v2H818v8Zm22,8H822v-12h18v12Z" transform="translate(-812 -2082)"/>
+</svg>

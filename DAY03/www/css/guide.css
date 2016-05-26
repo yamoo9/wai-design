@@ -1,0 +1,23 @@
+@charset "utf-8";
+/*! guide.css © yamoo9.net, 2016 */
+/*.show-guide {
+  min-height: 100vh;
+  background-image:
+  linear-gradient(180deg, transparent 93%, #b8222f 93%),
+  linear-gradient(90deg, hsla(355, 87%, 61%, 0.34) 76.4705%, transparent 76.4705%);
+  background-size:
+  1px 10px,
+  85px 1px;
+}*/
+
+body.show-guide {
+  min-height: 100vh;
+  background-image: linear-gradient(180deg, transparent 93%, hsla(355, 87%, 61%, 0.7) 93%);
+  background-size: 1px 10px;
+}
+
+body.show-guide .container {
+  min-height: inherit;
+  background-image: linear-gradient(90deg, hsla(355, 87%, 61%, 0.2) 76.4705%, transparent 76.4705%);
+  background-size: 85px 1px;
+}

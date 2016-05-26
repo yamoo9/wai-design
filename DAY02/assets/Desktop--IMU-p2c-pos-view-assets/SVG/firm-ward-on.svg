@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="30" viewBox="0 0 32 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ee2824;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-firm-ward-on.svg" class="cls-1" d="M832,1940h-8v10h-4l8,8,8-8h-4v-10Zm7.733,8H836v2h2.412l2.561,6H834a6,6,0,0,1-12,0h-6.973l2.561-6H820v-2h-3.733L812,1958v12h32v-12Z" transform="translate(-812 -1940)"/>
+</svg>

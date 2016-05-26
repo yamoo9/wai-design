@@ -43,7 +43,6 @@ body {
  * 헤더 디자인
  * ----------------------------- */
 .page-header {
-  /*overflow: hidden;*/
   position: relative;
   height: 80px;
   border-top: 4px solid #ee2824;
@@ -162,5 +161,22 @@ only screen and (                min-resolution: 96*2dpi) and (min-width: 30em),
 only screen and (                min-resolution: 2dppx)   and (min-width: 30em) {
   .page-header {
     background-image: url("../images/patterns/dark_Tire_@2X.png");
+    background-size: 250px 250px;
   }
+  .letter-box a {
+    background-image: url("../images/icon-letter@2x.png"), url("../images/letter-box@2x.png");
+    background-size: 27px 18px, 58px 69px;
+  }
+}
+
+
+/**
+ * --------------------------------
+ * SVG 미지원 브라우저 대응
+ * IE 8- SVG 대응
+ * Modernizr 사용
+ * ----------------------------- */
+.no-svg .icon-p2c_logo {
+  /*디자인 재정의 SVG 대체로 PNG 그래픽 사용*/
+  background-image: url("../images/p2c_logo.png");
 }

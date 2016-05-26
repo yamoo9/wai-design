@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="32" viewBox="0 0 30 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #555;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon-e-brochures.svg" class="cls-1" d="M833,1739v22h10v-22H833Zm4,18h-2v-2h2v2Zm0-4h-2v-2h2v2Zm0-4h-2v-2h2v2Zm0-4h-2v-2h2v2Zm4,12h-2v-2h2v2Zm0-4h-2v-2h2v2Zm0-4h-2v-2h2v2Zm0-4h-2v-2h2v2Zm-12-2h-2v-6l-2-4h-2v-4h-2v4h-2l-2,4v6h-2l-2,2v16h18v-16Zm-6-6h2v2h-2v-2Zm-4,0h2v2h-2v-2Zm0,20h-2v-2h2v2Zm0-4h-2v-2h2v2Zm0-4h-2v-2h2v2Zm0-8h2v2h-2v-2Zm4,16h-2v-2h2v2Zm0-4h-2v-2h2v2Zm0-4h-2v-2h2v2Zm0-8h2v2h-2v-2Zm4,16h-2v-2h2v2Zm0-4h-2v-2h2v2Zm0-4h-2v-2l2.121-.14Z" transform="translate(-813 -1729)"/>
+</svg>
